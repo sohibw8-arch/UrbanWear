@@ -139,7 +139,7 @@ header button{
 
 <script>
 const password = "admin123";
-const whatsapp = "919999999999"; // apna number
+const whatsapp = "7909325564"; // apna number
 
 const sampleProducts = [
  {name:"Oversized Black T-Shirt", price:"799", img:"https://images.unsplash.com/photo-1520975916090-3105956dac38"},
